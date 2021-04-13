@@ -10,20 +10,10 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Run data base 
 ```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
+npx json-server --watch data.json
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
