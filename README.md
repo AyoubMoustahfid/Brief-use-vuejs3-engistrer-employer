@@ -5,9 +5,9 @@
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Run Application
 ```
-yarn serve
+npm run serve
 ```
 
 ### Run data base 
