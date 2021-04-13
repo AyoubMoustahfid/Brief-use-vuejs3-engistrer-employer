@@ -1,0 +1,33 @@
+{
+  "employees": [
+    {
+      "firstName": "ajbazjdbazdb",
+      "lastName": "kahzdbkhazdk",
+      "phone": "khabzdkhabzhkd",
+      "cin": "kh",
+      "passport": "zdbkhabdh",
+      "address": "hazdhabzdh",
+      "city": "kahzdbhkabhzkd",
+      "country": "akzhdb",
+      "id": 27
+    }
+  ],
+  "employers": [
+    {
+      "email": "email@company.com",
+      "employer": "emp1",
+      "phone": "0607279713",
+      "cnss": "655555665",
+      "address": "Laborum Sunt a sun",
+      "id": 1
+    },
+    {
+      "email": "email@company.com",
+      "employer": "emp1",
+      "phone": "06969693923",
+      "cnss": "J566612",
+      "address": "ddqdkakhazdabkzdbaz",
+      "id": 2
+    }
+  ]
+}
